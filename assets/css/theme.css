@@ -9421,12 +9421,18 @@ a.theme-link {
 }
   
 
-.section-intro .section-intro-fa {
+.section-intro .section-intro-fa .section-intro-repo-fa {
   font-size: 1.25rem; }
 
 .section-intro-fa {
   font-family: 'Vazirmatn', sans-serif;
   direction: rtl; }
+
+.section-intro-repo-fa {
+  font-family: 'Vazirmatn', sans-serif;
+  direction: rtl; 
+  font-size: 2rem;
+}
 
 .hero-section .headline {
   font-size: 2.5rem;
